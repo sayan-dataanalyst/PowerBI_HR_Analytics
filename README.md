@@ -86,4 +86,5 @@ Charts:
 
 Model Page: 
 
+![Model Page](https://github.com/user-attachments/assets/3f832a5d-bef2-4bbe-84fb-5b325d4e759e)
 
